@@ -41,15 +41,14 @@ Ensure the following Python libraries are installed:
 - Pillow
 - pyenchant
 - cyhunspell
-## Video Demonstration
+## Demonstration
 
-Watch the [Sign Language To Text Conversation Demo].
+<img src="https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/d9c62551-b4ec-4088-8f9d-7694ba42c568" width="300" alt="image">
 
-![image](https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/d9c62551-b4ec-4088-8f9d-7694ba42c568)
+<img src="https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/32da87e0-12ef-479d-addc-84c204de9db3" width="300" alt="image">
 
-![image](https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/32da87e0-12ef-479d-addc-84c204de9db3)
+<img src="https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/4f530d8f-cbe5-4aa2-bf75-57e0dd3ca78b" width="300" alt="image">
 
-![image](https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/4f530d8f-cbe5-4aa2-bf75-57e0dd3ca78b)
 
 
 ## Contributors
