@@ -41,13 +41,6 @@ Ensure the following Python libraries are installed:
 - Pillow
 - pyenchant
 - cyhunspell
-
-## Running the Project
-
-Execute the following command:
-```bash
-python /path/to/the/Application.py
-
 ## Video Demonstration
 
 Watch the [Sign Language To Text Conversation Demo].
@@ -57,8 +50,6 @@ Watch the [Sign Language To Text Conversation Demo].
 ![image](https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/32da87e0-12ef-479d-addc-84c204de9db3)
 
 ![image](https://github.com/Yosra697/SignLanguageToTextConversation/assets/83519787/4f530d8f-cbe5-4aa2-bf75-57e0dd3ca78b)
-
-
 
 
 ## Contributors
